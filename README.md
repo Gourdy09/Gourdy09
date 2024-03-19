@@ -9,6 +9,7 @@ I've been learning to code for 5 years. I mainly am self-taught and work on game
 * 🌍  I'm based in Texas
 * 🧠  I'm learning Java, C#, Python, HTML, CSS, and JavaScript
 * 🤝  I'm open to collaborating on Any Project
+* ❤️  Excecutive Director and Head of Programming and UI/UX of Project Kaisen
 
 <a href="https://www.github.com/Gourdy08" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Gourdy08?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
