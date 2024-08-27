@@ -11,8 +11,8 @@ I've been learning to code for 6 years. I mainly am self-taught and work on game
 * 🤝  I'm open to collaborating on Any Project
 * ❤️  Owner and Lead Developer of Thrive
 
-<a href="https://www.github.com/Gourdy08" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Gourdy08?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Gourdy09" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Gourdy09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -27,6 +27,6 @@ src="https://img.shields.io/github/followers/Gourdy08?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Gourdy08"><img src="https://github-readme-stats.vercel.app/api?username=Gourdy08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gourdy08's GitHub stats" /></a>
+<a href="http://www.github.com/Gourdy09"><img src="https://github-readme-stats.vercel.app/api?username=Gourdy09&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gourdy09's GitHub stats" /></a>
 
-<a href="https://github.com/Gourdy08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourdy08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Gourdy09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourdy09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
